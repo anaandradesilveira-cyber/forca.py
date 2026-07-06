@@ -1,4 +1,4 @@
-def jogar_forca():
+def jogar():
     print("********************************")
     print("***bem vindo ao jogo da forca!***")
     print("*********************************")
